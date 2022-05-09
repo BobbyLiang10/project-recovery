@@ -29,10 +29,15 @@ If the bees hit you four times, you lose.
 
 ## Controls:
 W - move up
+
 A - move left
+
 S - move down
+
 D - move right
+
 Mouse left click - Shoot
+
 P - planting the Recot
 
 ## Future Features:
