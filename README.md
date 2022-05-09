@@ -7,6 +7,7 @@ Jeyarajah. The purpose of this project was to learn more about video game design
 This project is coded in Java using the Eclipse IDE to run the game.
 All character art, design, sprites, and movements were designed by ourselves.
 The game is also launched on Itch.io to download.
+
 Link to game: https://saheenjeyarajah.itch.io/project-recovery
 
 ## How to Run the game:
